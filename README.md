@@ -1,6 +1,7 @@
 # Deenflow
 
+- Frontend dev
 - learning cyber Securty
-- learning OSCP
+- now: OSCP
 - CTF player
 - Blizhack
