@@ -24,7 +24,7 @@
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=linux,kali,vscode,pycharm,mysql,js,html,css,python,cpp,git,github&theme=dark" />
-        
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&pause=1000&color=144E11&center=true&vCenter=true&width=435&lines=hacking+.+.+.;CTF+.+.+.;OSCP+.+.+.+" alt="Typing SVG" /></a>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&pause=1000&color=144E11&center=true&vCenter=true&width=435&lines=hacking+.+.+.;CTF+.+.+.;OSCP+.+.+.+" alt="Typing SVG" /></a>
+
 <br>
