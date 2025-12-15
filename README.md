@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center" size="25" color=red font="Sekuya">
+    <h1 align="center" size="25" color=red font="edo">
             Deenflow
     </h1>
 
