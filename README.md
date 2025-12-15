@@ -4,19 +4,19 @@
     </h1>
 
 
-    <p>
-        <a href="https://github.com/hack1kali" target="_blank">
-            <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        &nbsp;
-        <a href="https://discord.com/users/1218939279594491958" target="_blank">
-            <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-        </a>
-        &nbsp;
-        <a href="https://medium.com/@d33nf10w" target="_blank">
-            <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=medium&logoColor=white" />
-        </a>
-    </p>
+<p>
+    <a href="https://github.com/hack1kali" target="_blank">
+        <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://discord.com/users/1218939279594491958" target="_blank">
+        <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://medium.com/@d33nf10w" target="_blank">
+     <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=medium&logoColor=white" />
+   </a>
+ </p>
 </div>
 
 <br>
