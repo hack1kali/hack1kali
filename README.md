@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=26&letterSpacing=&pause=1000&color=610000&center=true&vCenter=true&width=435&lines=Deenflow" alt="Typing SVG" ></h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&pause=1000&color=144E11&center=true&vCenter=true&width=435&lines=hacking+.+.+.;CTF+.+.+.;OSCP+.+.+.+" alt="Typing SVG" /></a>
 
 <p>
     <a href="https://github.com/hack1kali" target="_blank">
