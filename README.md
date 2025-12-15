@@ -1,7 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sekuya&size=26&pause=1000&color=610000&width=435&lines=Deenflow)](https://git.io/typing-svg)
+
 <div align="center">
-    <h1 align="center" size="25" color=red font="edo">
-            Deenflow
-    </h1>
 
 
 <p>
